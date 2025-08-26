@@ -18,3 +18,4 @@ print(heroi.vida)
 print(heroi.forca)
 
 
+    
