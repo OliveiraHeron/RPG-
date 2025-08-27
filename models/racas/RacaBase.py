@@ -10,7 +10,7 @@ class Raca:
     
     def __str__(self):
         return (
-            f"==== Raça: {self.nome} ====\n"
+            f"#### Raça: {self.nome} #####\n"
             f"-- Movimento: {self.movimento}\n"
             f"-- Infravisão: {self.infravisao}\n"
             f"-- Alinhamento: {self.alinhamento}\n"

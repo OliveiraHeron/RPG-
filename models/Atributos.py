@@ -9,5 +9,5 @@ class Atributos:
         self.carisma = carisma
     
     def __str__(self):
-        return (f"FORÇA: {self.forca} / DESTREZA: {self.destreza} / CONSTITUIÇÃO: {self.constituicao}\n"
-                f"INTELIGENCIA: {self.inteligencia} / SABEDORIA: {self.sabedoria} / CARISMA: {self.carisma}" )
+        return (f"FORC: {self.forca} / DEST: {self.destreza} / CONST: {self.constituicao}\n"
+                f"INT: {self.inteligencia} / SAB: {self.sabedoria} / CARISMA: {self.carisma}" )
